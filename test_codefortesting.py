@@ -9,3 +9,5 @@ def test_answer():
 
 def test_answer():
     assert codefortesting.power(2,8) == 256
+
+# Some comment to test branching
